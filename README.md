@@ -6,13 +6,13 @@ https://experienceleague.adobe.com/developer/commerce/storefront/
 
 ## Environments - Doc-based
 
-- Preview: https://main--kukla-citisignal-storefront--kukla.aem.page/
-- Live: https://main--kukla-citisignal-storefront--kukla.aem.live/
+- Preview: https://main--kukla-citisignal-storefront--skukla.aem.page/
+- Live: https://main--kukla-citisignal-storefront--skukla.aem.live/
 
 ## Environments - AEM UE + Crosswalk
 
-- Preview: https://main--kukla-citisignal-storefront--kukla.aem.page/
-- Live: https://main--kukla-citisignal-storefront--kukla.aem.live/
+- Preview: https://main--kukla-citisignal-storefront--skukla.aem.page/
+- Live: https://main--kukla-citisignal-storefront--skukla.aem.live/
 
 ## Pre-requisites
 
