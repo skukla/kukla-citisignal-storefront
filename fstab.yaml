@@ -7,7 +7,8 @@
 
 # Use the following for Doc-based authoring. Make sure to change it to your SharePoint or Google Drive url.
 #mountpoints:
-/: https://drive.google.com/drive/folders/1PTvx8wnc94o7R3sEMazcBAE9Y5JPWo72
+#/: https://drive.google.com/drive/folders/1PTvx8wnc94o7R3sEMazcBAE9Y5JPWo72
+/: https://drive.google.com/drive/folders/1YwwmmBmccjI1iR9sACqYSBI5mquQ_-zr
 
 folders:
   /products/plan/: /products/plan/default
